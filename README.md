@@ -9,7 +9,7 @@ Regla 2. Utilizar el selector universal * para cambiar el tipo de fuente del doc
 
 Regla 3. El elemento body tendrá margen 0 y relleno de 20% únicamente a la derecha y izquierda
 
-Regla 4. Los elementos h1 estarán subrayados (text-decoration: underline;), de color darkcyan y alineados al centro
+Regla 4. Los elementos h1 estarán subrayados (text-decoration: underline;), de color yellow y alineados al centro
 
 Regla 5. Los elementos con clase selector tendrán color lightcyan
 
