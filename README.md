@@ -29,7 +29,7 @@ Regla 12. Los elementos div tendrán un ancho width de 100%
 
 Regla 13. Añade las imagenes de aviones y los elementos img tendrán un ancho width de 100%, un border: solid black 1px; y esquinas redondeadas con valor de 5px
 
-Regla 14. Los elementos td tendrán un background-color: black y text-color: white
+Regla 14. Los elementos td tendrán un background-color: black y color: white
 
 Regla 15. La clase row tendrá: .row:after content: "";display: table;clear: both;
 
