@@ -15,7 +15,7 @@ Regla 5. Los elementos con id footer tendrán color: azure; background-color: bl
 
 Regla 6. Los elementos con clase column-2 width: 50%; float: left; padding: 2%;
 
-Regla 7. Los elementos con identificador (id) universal tendrán color white
+Regla 7. Los elementos con identificador footer tendrán color white
 
 Regla 8. Los elementos h2 tendrán color de fondo yellow, relleno de 1% 
 
