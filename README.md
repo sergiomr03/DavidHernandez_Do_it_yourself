@@ -9,24 +9,28 @@ Regla 2. Utilizar el selector universal * para cambiar el tipo de fuente del doc
 
 Regla 3. El elemento body tendrá margen 0 y relleno de 20% únicamente a la derecha y izquierda
 
-Regla 4. Los elementos h1 estarán subrayados (text-decoration: underline;), de color yellow y alineados al centro
+Regla 4. Los elementos h1 tendrán un tamaño de texto font-size: 30px;
 
-Regla 5. Los elementos con clase selector tendrán color lightcyan
+Regla 5. Los elementos con id footer tendrán color: azure; background-color: black; padding: 3.5% 7.5%;
 
-Regla 6. Los elementos con clase selectors tendrán un relleno de 5%, un border: solid darkcyan 1px; y esquinas redondeadas border-radius con valor de 5px
+Regla 6. Los elementos con clase column-2 width: 50%; float: left; padding: 2%;
 
-Regla 7. Los elementos con identificador (id) universal tendrán color lightgoldenrodyellow
+Regla 7. Los elementos con identificador (id) universal tendrán color white
 
-Regla 8. Los elementos h2 con clase selector y los elementos h2 con identificador (id) universal tendrán color de fondo darkcyan, relleno de 1% y esquinas redondeadas con valor de 5px
+Regla 8. Los elementos h2 tendrán color de fondo yellow, relleno de 1% 
 
-Regla 9. Los elementos span tendrán font-weight: 900; color de fondo negro y color de texto blanco
+Regla 9. Los elementos tr tendrán esquinas redondeadas con valor de 5px
 
-Regla 10. Los elementos a que sean hijos directos de algún li tendrán text-decoration: none
+Regla 10. Los elementos table tendrán un border-radius 5px
 
-Regla 11. Los elementos h3 tendrán color de fondo background-color: rgba(0, 139, 139, 0.529);, relleno de 0.5px y esquinas redondeadas con valor de 5px
+Regla 11. Los elementos h3 tendrán color de fondo background-color: rgba(0, 59, 39, 0.529);, relleno de 0.5px
 
-Regla 12. Los elementos div que sean descendientes de un elemento con id gallery tendrán un ancho width de 100%
+Regla 12. Los elementos div tendrán un ancho width de 100%
 
-Regla 13. Los elementos img tendrán un ancho width de 100%, un border: solid darkcyan 1px; y esquinas redondeadas con valor de 5px
+Regla 13. Los elementos img tendrán un ancho width de 100%, un border: solid black 1px; y esquinas redondeadas con valor de 5px
+
+Regla 14. Los elementos td tendrán un background-color: black y text-color: white
+
+Regla 15. La clase row tendrá: .row:after content: "";display: table;clear: both;
 
 Utilizar GitHub Pages para desplegar la web en internet
