@@ -5,7 +5,7 @@ Mediante una hoja de estilos externos se ha de aplicar formato a la página web 
 
 Regla 1: Utilizar Font Awesome para añadir un icono de página
 
-Regla 2. Utilizar el selector universal * para cambiar el tipo de fuente del documento
+Regla 2. Crea el archivo css y utiliza el selector universal * para cambiar el tipo de fuente del documento
 
 Regla 3. El elemento body tendrá margen 0 y relleno de 20% únicamente a la derecha y izquierda
 
