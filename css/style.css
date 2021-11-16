@@ -1,0 +1,62 @@
+* {
+    font-family: "Roboto Mono", monospace;
+}
+
+#body {
+    margin: 0%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+#footer {
+    color: azure;
+    background-color: black;
+    padding: 3.5% 7.5%;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+    padding: 2%;
+}
+
+.footer {
+    color: white;
+}
+
+.h2 {
+    background-color: yellow;
+}
+
+.tr {
+    border-radius: 5px;
+}
+
+.h3 {
+    background-color: rgba(0, 59, 39, 0.529);
+}
+
+.div {
+    width: 100%;
+}
+
+.img {
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+
+.td {
+    background-color: black;
+    color: white
+}
+
+#row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
